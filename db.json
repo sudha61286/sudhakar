@@ -1,18 +1,4 @@
 {
-  "todos":[
-    {
-    "userId": 1,
-    "id": 1,
-    "title": "TODO-1",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "TODO-2",
-    "completed": true
-  }
-  ],
   "albums":[
     {
     "userId": 1,
